@@ -3,13 +3,18 @@
 <i>NFT Gift Cards is a platform that helps you collect, create, trade, and sell your paper cards and turn them into digital assets. No more birthday cards ending up in the trash.
 </i>
 
+## Project info:
+
+- Website demo [https://nft-birthday-cards.netlify.app](https://nft-birthday-cards.netlify.app/)
+- Video link: https://youtu.be/4OfKt1ALEJY
+
+---
+
 ![Main Page](https://raw.githubusercontent.com/metaversemoon/NFT-cards/main/collection.png) <br> <br>
 
 ### Project Full details:
 
-
 NFT Gift Cards is a platform that helps you collect, create, trade, and sell your paper cards and turn them into digital assets. No more birthday cards ending up in the trash.
-
 
 **NFT Gift Cards** is a platform that helps you collect, create, trade, and sell your paper cards and turn them into digital assets. No more birthday cards ending up in the trash.
 
@@ -18,8 +23,7 @@ NFT Gift Cards is a platform that helps you collect, create, trade, and sell you
 - Users would be able to send and receive NFT Giftcards using their wallets.
 
 Find meaningful birthday cards for family and friends, spread kindness, and save them through a decentralized and transparent way using NEAR blockchain technology to document your life from start to finish.
-
-
+![Editor Page](https://raw.githubusercontent.com/4metaverse/NFT-Giftcards/main/Editor.png) <br> <br>
 
 NFT Gift Cards is an app that helps you digitalize your memories forever. Join us to create, trade, and sell your Birthday Cards. NFT Gift Card is a platform that helps you protect your important memories, moments, and wishes.
 No more Gift cards ending up in the trash. With NFT Gift Cards you can collect Gift Cards, create, trade, and sell them.
@@ -27,6 +31,9 @@ No more Gift cards ending up in the trash. With NFT Gift Cards you can collect G
 This dapp will have a marketplace for artists to sell NFT Gift cards template. Users will be able to upload and design their own or buy a template.
 
 Find meaningful Gift cards for family and friends, spread kindness, and save them through a decentralized and transparent way using blockchain technology to document your life from start to finish.
+
+![Home Page](https://raw.githubusercontent.com/4metaverse/NFT-Giftcards/main/Home.png) <br> <br>
+![Marketplace Page](https://raw.githubusercontent.com/4metaverse/NFT-Giftcards/main/Marketplace.png) <br> <br>
 
 ## How does it work?
 
