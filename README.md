@@ -3,10 +3,9 @@
 <i>NFT Gift Cards is a platform that helps you collect, create, trade, and sell your paper cards and turn them into digital assets. No more birthday cards ending up in the trash.
 </i>
 
-## Project info:
+## Project Live Demo - Preview:
 
-- Website demo [https://nft-birthday-cards.netlify.app](https://nft-birthday-cards.netlify.app/)
-- Video link: https://youtu.be/4OfKt1ALEJY
+- Website demo [https://nft-birthday-cards.netlify.app](https://nft-giftcards.netlify.app/#/
 
 ---
 
