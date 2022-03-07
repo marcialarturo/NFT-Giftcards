@@ -5,7 +5,7 @@
 
 ## Project Live Demo - Preview:
 
-- Website demo [https://nft-birthday-cards.netlify.app](https://nft-giftcards.netlify.app/#/
+- Website demo [https://nft-birthday-cards.netlify.app](https://nft-giftcards.netlify.app/#/)
 
 ---
 
